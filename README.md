@@ -17,7 +17,7 @@ Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por la prog
 
 ## 🌱 Actualmente estoy estudiando
 
-- ** Ultimo año de DAW en el IESALIXAR 
+- Ultimo año de DAW en el IESALIXAR 
   
 ## 📈 Mis estadísticas
 
