@@ -15,7 +15,7 @@ Aquí te dejo una lista de las herramientas y tecnologías con las que trabajo:
 - 🧰 **Despliegue de aplicaciones**:
   - Docker, Nginx, Apache, Kubernetes, Jenkins
 - 🌐 **Desarrollo web**:
-  - Frontend con **HTML**, **CSS**, **JavaScript**, **Angular**
+  - Frontend con **HTML**, **CSS**, **SASS**, **JavaScript**, **Angular**
 - 🧑‍💻 **Backend**:
   - **MySQL**, **Node.js**, **Java**, **API Rest**, **MariaDB**
 - 🧠 **Conocimiento básico de Inteligencia Artificial**:
