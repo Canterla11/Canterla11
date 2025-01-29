@@ -2,6 +2,8 @@
 
 Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por la programación y la tecnología.
 
+![Bienvenida a GitHub](https://img.shields.io/badge/-Bienvenido%20a%20mi%20GitHub%20!-%23FF9C00?style=for-the-badge&logo=github&logoColor=white)
+
 ## 🚀 Mis habilidades
 
 - 💻 **Lenguajes de programación**: HTML, CSS, JavaScript, Java, TypeScript
@@ -14,14 +16,14 @@ Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por la prog
   - Node.js para gestión de proyectos
   - Frameworks: Bootstrap
   - Base de datos: MySQL, MongoDB, MariaDB
+ 
+## 💬 Mi filosofía de desarrollo
+
+- Soy un firme creyente en la simplicidad. Busco soluciones elegantes y fáciles de mantener, sin perder de vista la eficiencia. Creo que aprender de los errores y colaborar con otros es la clave para crecer como desarrollador.
 
 ## 🌱 Actualmente estoy estudiando
 
 - Ultimo año de DAW en el IESALIXAR 
-  
-## 📈 Mis estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Canterla11&show_icons=true&count_private=true)
 
 ## 📬 Contáctame
 
@@ -30,7 +32,7 @@ Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por la prog
 
 ## 👨‍💻 Proyectos destacados
 
-- **Por ahora no tengo ninguno en publico**
+- **Actualmente estoy trabajando en una aplicacion de gestion de un taller, es mi trabajo de fin de curso por lo cual lo tengo privado**
 
 ## 🔧 Mi objetivo
 
