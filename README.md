@@ -2,7 +2,7 @@
 
 Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la programación y la tecnología. 🌍
 
-![Bienvenida a GitHub](https://img.shields.io/badge/-Bienvenido%20a%20mi%20GitHub%20!-%23FF9C00?style=for-the-badge&logo=github&logoColor=white)
+![Bienvenido a mi GitHub](https://img.shields.io/badge/Bienvenido%20a%20mi%20GitHub-%2300FF00?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
