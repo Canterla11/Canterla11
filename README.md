@@ -30,7 +30,7 @@ Aquí te dejo una lista de las herramientas y tecnologías con las que trabajo:
 
 ## 💬 Mi filosofía de desarrollo
 
-"Soy un firme creyente en la **simplicidad**. Busco soluciones **elegantes** y fáciles de mantener, sin perder de vista la **eficiencia**. Creo que aprender de los errores y colaborar con otros es la clave para crecer como desarrollador."
+Soy un firme creyente en la **simplicidad**. Busco soluciones **elegantes** y fáciles de mantener, sin perder de vista la **eficiencia**. Creo que aprender de los errores y colaborar con otros es la clave para crecer como desarrollador
 
 ---
 
