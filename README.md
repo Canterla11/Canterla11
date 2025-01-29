@@ -42,7 +42,7 @@ Soy un firme creyente en la **simplicidad**. Busco soluciones **elegantes** y f�
 
 ## 🛠️ Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinCanterla&layout=compact)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=canterla11&layout=compact)
 
 ---
 
