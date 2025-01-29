@@ -63,5 +63,4 @@ Estoy en un proceso constante de aprendizaje, con el objetivo de convertirme en 
 ---
 
 **¡Gracias por visitar mi perfil!** 🚀  
-¡Nos vemos en la web! 🌐
 
