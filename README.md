@@ -26,7 +26,7 @@ Soy un estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por la prog
 ## 📬 Contáctame
 
 - 📧 Correo electrónico: [acanterlagonzalez@gmail.com](mailto:acanterlagonzalez@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/agustín-canterla-gonzález/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-canterla-gonz%C3%A1lez-23403634a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## 👨‍💻 Proyectos destacados
 
