@@ -10,12 +10,12 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 
 Aquí te dejo una lista de las herramientas y tecnologías con las que trabajo:
 
+- 🧩 **Framework**:
+  - **Angular**, **Spring Boot**
 - 💻 **Lenguajes de programación**:
   - HTML, CSS, JavaScript, Java, TypeScript
 - 🧰 **Despliegue de aplicaciones**:
   - Docker, Nginx, Apache, Kubernetes, Jenkins
-- 🧩 **Framework**:
-  - **Angular**, **Spring Boot**
 - 🌐 **Desarrollo web**:
   - Frontend con **HTML**, **CSS**, **SASS**, **JavaScript**
 - 🧑‍💻 **Backend**:
