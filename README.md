@@ -11,7 +11,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 Aquí te dejo una lista de las herramientas y tecnologías con las que trabajo:
 
 - 🧩 **Framework**:
-  - **Angular**, **Spring Boot**
+  - **Angular**, **Spring Boot**, **Bootstrap**
 - 💻 **Lenguajes de programación**:
   - HTML, CSS, JavaScript, Java, TypeScript
 - 🧰 **Despliegue de aplicaciones**:
@@ -25,7 +25,6 @@ Aquí te dejo una lista de las herramientas y tecnologías con las que trabajo:
 - 🛠 **Herramientas y Tecnologías**:
   - **Git** y **GitHub** para control de versiones
   - **Node.js** para gestión de proyectos
-  - **Frameworks**: Bootstrap
   - **Base de datos**: MySQL, MongoDB, MariaDB
 
 ---
